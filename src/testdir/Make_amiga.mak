@@ -13,8 +13,6 @@ VIMPROG = /vim
 # test25	uses symbolic link
 # test27	can't edit file with "*"
 # test52	only for Win32
-# test85	no Lua interface
-# test86, 87	no Python interface
 
 SCRIPTS = test1.out test3.out test4.out test5.out test6.out \
 		test7.out test8.out test9.out \
@@ -133,6 +131,9 @@ test79.out: test79.in
 test80.out: test80.in
 test81.out: test81.in
 test82.out: test82.in
+<<<<<<< HEAD
 test83.out: test83.in
 test84.out: test84.in
 test88.out: test88.in
+=======
+>>>>>>> 10e7bedcdb051833257ab4f6a437c4f09bc6d881

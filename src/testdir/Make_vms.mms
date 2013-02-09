@@ -89,7 +89,6 @@ SCRIPT = test1.out  test2.out  test3.out  test4.out  test5.out  \
 # with too many dots).
 #
 # Test 72: unknown reason
-# Test 85: no Lua interface
 
 .IFDEF WANT_GUI
 SCRIPT_GUI = test16.out
